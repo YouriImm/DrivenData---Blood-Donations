@@ -6,7 +6,7 @@ In this repository, you will find my final submission using logistic regression.
 
 ___
 
-![Score]({{ "/img/DD_results.png" | absolute_url }})
+![Score](/img/DD_results.png)
 
 ___
 
