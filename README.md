@@ -6,7 +6,7 @@ In this repository, you will find my final submission using logistic regression.
 
 ___
 
-![Score](/img/DD_results.png)
+![Score](https://github.com/YouriImm/DrivenData---Blood-Donations/blob/master/img/DD_results.PNG?raw=true)
 
 ___
 
